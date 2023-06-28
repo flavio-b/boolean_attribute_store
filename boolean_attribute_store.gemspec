@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.authors = [""]
   spec.email = [""]
 
-  spec.summary = "Utility methods for ActiveRecord models that store data in JSON"
+  spec.summary = "Utility methods for ActiveRecord models that store data in JSON."
   spec.description = ""
   spec.homepage = ""
   spec.required_ruby_version = ">= 2.7.0"
